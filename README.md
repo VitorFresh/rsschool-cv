@@ -1,1 +1,1 @@
-# rsschool-cv
+https://vitorfresh.github.io/rsschool-cv/
